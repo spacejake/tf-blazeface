@@ -1,0 +1,10 @@
+Volume Bindings:
+/workspace/src	/home/jake/...
+/workspace/dataset	/home/jake/.../dataset
+/tmp/.X11-unix	/tmp/.X11-unix
+/root/.torch/models	/root/.torch/models
+
+ENV:
+DISPLAY	:0
+CUDAXX	/opt/cuda/bin/nvcc
+
